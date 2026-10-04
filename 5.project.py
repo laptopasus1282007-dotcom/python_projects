@@ -1,3 +1,5 @@
+#This is my 6th project.
+#Movie tickit booking system
 movies = {
     "1": {"name" : "Toxic", "price" : 200},
     "2": {"name" : "Spiderman", "price" : 250},
